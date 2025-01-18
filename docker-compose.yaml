@@ -2,7 +2,7 @@ name: easy_portainer
 
 services:
   portainer:
-    image: docker.io/portainer/portainer-ce:2.21.5
+    image: docker.io/portainer/portainer-ce:2.26.0
     container_name: portainer
     restart: always
     ports:
