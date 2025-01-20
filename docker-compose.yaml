@@ -6,7 +6,7 @@ services:
     container_name: portainer
     restart: always
     ports:
-      - ${PORT_UI:-9443}:9443
+      - ${PORT_HTTPS:-9443}:9443
       - ${PORT_TUNNEL:-8000}:8000
     volumes:
       - ./volumes/data:/data

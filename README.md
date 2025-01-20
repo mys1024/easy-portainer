@@ -7,7 +7,7 @@ Easily startup a [**Portainer CE**](https://docs.portainer.io/start/install-ce/s
 1. Create a file named `.env` with your custom configurations:
 
     ```sh
-    PORT_UI=9443 # optional, defaults to "9443"
+    PORT_HTTPS=9443 # optional, defaults to "9443"
     PORT_TUNNEL=8000 # optional, defaults to "8000"
     PATH_DOCKER_SOCK=/var/run/docker.sock # optional, defaults to "/var/run/docker.sock"
     ```
