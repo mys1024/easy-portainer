@@ -12,7 +12,7 @@ Easily startup a [**Portainer CE**](https://docs.portainer.io/start/install-ce/s
     PATH_DOCKER_SOCK=/var/run/docker.sock # optional, defaults to "/var/run/docker.sock"
     ```
 
-2. Startup:
+2. Start:
 
     ```sh
     docker-compose up -d
