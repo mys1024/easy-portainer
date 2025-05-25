@@ -1,6 +1,6 @@
 # easy-portainer
 
-Easily startup a [**Portainer CE**](https://docs.portainer.io/start/install-ce/server/docker/linux) container with [**Docker Compose**](https://docs.docker.com/compose/).
+Easily start a [**Portainer CE**](https://docs.portainer.io/start/install-ce/server/docker/linux) container with [**Docker Compose**](https://docs.docker.com/compose/).
 
 ## Usage
 
